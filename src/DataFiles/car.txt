@@ -1,0 +1,6 @@
+WWW8888,Toyota,Camry,Gray,2020,200,06-08-2020
+WWW8889,Toyota,Corolla,White,2019,150,09-09-2021
+WWW1234,Toyota,Model X,White,2020,150,09-09-2021
+WWW2345,Toyota,Model Y,Red,2017,300,09-09-2021
+WWW3456,Toyota,Cybertruck,Yellow,2018,350,09-09-2021
+WWW4567,Toyota,Model E,White,2019,200,09-09-2021
